@@ -8,8 +8,8 @@
 
 ## 🔴 Live Website
 
-🌐 **Portfolio:** https://your-portfolio-link.vercel.app
-💻 **Repository:** https://github.com/your-username/your-repo-name
+🌐 **Portfolio:** https://my-portfolio-tau-seven-46.vercel.app/
+💻 **Repository:** https://github.com/jayprakashm578/My-portfolio
 
 ---
 
@@ -42,9 +42,11 @@
 
 ## 📸 Screenshots
 
-| Desktop             | Mobile              |
-| ------------------- | ------------------- |
-| Add screenshot here | Add screenshot here |
+### 🖥 Desktop View
+|![Desktop View](./assets/portfolio-desktop.png)
+
+### 📱 Mobile View
+![Mobile View](./assets/portfolio-mobile.png)
 
 ---
 
@@ -53,6 +55,7 @@
 ```
 portfolio/
 │
+├── assets/
 ├── favicon.ico
 ├── index.html
 └── README.md
@@ -66,10 +69,10 @@ portfolio/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/jayprakashm578/My-portfolio
 
 # Go into the project
-cd your-repo-name
+cd My-portfolio
 
 # Open in browser
 open index.html
@@ -93,7 +96,7 @@ Currently working on:
 
 📧 Email: [jayprakashm578@gmail.com](mailto:jayprakashm578@gmail.com)
 🐙 GitHub: https://github.com/jayprakashm578
-🌐 Portfolio: https://your-portfolio-link.vercel.app
+🌐 Portfolio: https://my-portfolio-tau-seven-46.vercel.app/
 
 💼 **Available for freelance and entry-level opportunities**
 
