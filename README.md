@@ -58,6 +58,7 @@ portfolio/
 ├── assets/
 ├── favicon.ico
 ├── index.html
+├── Jayaprakash_Mohanty_Frontend_Developer.pdf
 └── README.md
 └── script.js
 ├── style.css
