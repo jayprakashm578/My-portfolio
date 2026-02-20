@@ -1,7 +1,7 @@
 # 🚀 Jayaprakash Mohanty — Developer Portfolio
 
-![Portfolio Preview](<img src="assets/portfolio-desktop.png" width="900" alt="Portfolio Preview">
-)
+![Portfolio Preview]<img src="assets/portfolio-desktop.png" width="900" alt="Portfolio Preview">
+
 
 > A modern, fast, and fully responsive personal portfolio showcasing my web development projects, skills, and contact information.
 
