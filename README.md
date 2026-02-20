@@ -1,6 +1,7 @@
 # 🚀 Jayaprakash Mohanty — Developer Portfolio
 
-![Portfolio Preview](https://your-portfolio-link.vercel.app/preview.png)
+![Portfolio Preview](<img src="assets/portfolio-desktop.png" width="900" alt="Portfolio Preview">
+)
 
 > A modern, fast, and fully responsive personal portfolio showcasing my web development projects, skills, and contact information.
 
@@ -19,7 +20,7 @@
 * 📱 Fully responsive (mobile-first)
 * ⚡ Optimized performance
 * 🧩 Project showcase with live demos
-* 📬 Working contact section
+* 📬 Functional contact section
 * 🌐 Deployed on Vercel
 * 🔍 SEO-friendly structure
 
@@ -42,11 +43,10 @@
 
 ## 📸 Screenshots
 
-### 🖥 Desktop View
-|![Desktop View](./assets/portfolio-desktop.png)
-
-### 📱 Mobile View
-![Mobile View](./assets/portfolio-mobile.png)
+<p align="center">
+  <img src="assets/portfolio-desktop.png" width="750" alt="Desktop View">
+  <img src="assets/portfolio-mobile.png" width="250" alt="Mobile View">
+</p>
 
 ---
 
